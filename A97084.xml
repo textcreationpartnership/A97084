@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>X. solid and serious queries: concerning the power of church discipline pleaded by some of the clergy to be in them iure divino, and by the will and appointment of Jesus Christ. With a three-fold distinction of power; humaine rationall, and divine, flowing from the Parliament, the consciences, and the spirit of God, unto which all men are bound to submit. Also an admonition to the Parliament to promote the restitution of true religion, and reformation of Gods church, to the abandoning all popish remnants, both in ceremonies and regiment, and also to bring in, and place in Gods church, those things only wch [sic] the Lord himselfe commandeth, with the platforme of a church reformed. Composed by many learned, religious and godly ministers, and proved out of Gods Word. And a vew [sic] of popish abuses remaining in the prelacy with the copies of some private letters written; and sent to some of them worthy His Majesties consideration. / by [brace] R. Gualter. T.B. &amp;c. [brace] ministers of Gods Word.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97084</idno>
+            <idno type="STC">Wing W652A</idno>
+            <idno type="STC">Thomason E335_4</idno>
+            <idno type="STC">ESTC R200773</idno>
+            <idno type="EEBO-CITATION">99861431</idno>
+            <idno type="PROQUEST">99861431</idno>
+            <idno type="VID">159672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159672)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E335[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>X. solid and serious queries: concerning the power of church discipline pleaded by some of the clergy to be in them iure divino, and by the will and appointment of Jesus Christ. With a three-fold distinction of power; humaine rationall, and divine, flowing from the Parliament, the consciences, and the spirit of God, unto which all men are bound to submit. Also an admonition to the Parliament to promote the restitution of true religion, and reformation of Gods church, to the abandoning all popish remnants, both in ceremonies and regiment, and also to bring in, and place in Gods church, those things only wch [sic] the Lord himselfe commandeth, with the platforme of a church reformed. Composed by many learned, religious and godly ministers, and proved out of Gods Word. And a vew [sic] of popish abuses remaining in the prelacy with the copies of some private letters written; and sent to some of them worthy His Majesties consideration. / by [brace] R. Gualter. T.B. &amp;c. [brace] ministers of Gods Word.</title>
+                  <author>Gwalther, Rudolf, 1519-1586.</author>
+                  <author>Bèze, Théodore de, 1519-1605.</author>
+               </titleStmt>
+               <extent>7, [1]; 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Matthew Walbancke at Gras-Inne-Gate [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The names "R. Gualter. T.B. &amp;c." are enclosed in brackets on title page.</note>
+                  <note>In two parts.  Part 2 has caption title "To the godly readers, grace and peace, &amp;c.", and is in a number of sections, the last of which is signed at end: Theodore Beza; pagination and register are separate.</note>
+                  <note>Annotation on Thomason copy: "Aprill 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church --  Unity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159672:1" rendition="simple:additions"/>
+            <p>X. Solid and Serious QVERIES: Concerning the power of Church Diſcipline pleaded by ſome of the Clergy to be in them <hi>Iure Divino,</hi> and by the will and appointment of Jeſus Chriſt.</p>
+            <p>With a three-fold diſtinction of power; <hi>Humaine Rationall,</hi> and <hi>Divine,</hi> flowing from the <hi>Parliament,</hi> the <hi>conſciences,</hi> and the <hi>Spirit</hi> of God, unto which all men are bound to ſubmit.</p>
+            <p>Alſo an Admonition to the Par1iament to promote the Reſtitu<g ref="char:EOLhyphen"/>tion of true Religion, and Reformation of Gods Church, to the Abandoning of all Popiſh Remnants, both in Ceremonies and Regiment, and alſo to bring in, and place in Gods Church, thoſe things only wch the Lord himſelfe Commandeth, with the plat<g ref="char:EOLhyphen"/>forme of a Church Reformed.</p>
+            <p>Compoſed by many Learned, Religious and godly Ministers, and proved out of Gods Word.</p>
+            <p>And a vew of Popiſh abuſes remaining in the Prelacy with the Copies of ſome private Letters written; and ſent to ſome of them worthy His Majeſties conſideration.</p>
+            <p>by <hi>R. Gualter. T. B. &amp;.</hi> Miniſters of Gods Word.</p>
+            <q>
+               <p>
+                  <hi>A wonderfull, and horrible thing is committed in the land, The Prophets pro<g ref="char:EOLhyphen"/>pheſie falſly, and the Prieſts beare rule by their meanes, and My people love to have it ſo: and what will yee doe in the end thereof?</hi>
+               </p> 
+               <bibl>Jerem. 5. 30, 31.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Yea that are neere acknowledge my might.</hi>
+               </p>
+               <p>
+                  <hi>The ſinners in Zion are afraid, fearefulnesse hath ſurprized the Hypocrites,</hi>
+               </p> 
+               <bibl>Iſay 33.13, 14.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matthew Walbancke</hi> at <hi>Graſ-Inne-Gate,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:159672:2"/>
+            <pb n="3" facs="tcp:159672:2"/>
+            <head>Ten Solid and ſerious Queries; Concerning the power of Chruch diſcipline, pleaded by ſome of the Clergy to be in them, <hi>jure Divino.</hi>
+            </head>
+            <p>1. <hi>Quere.</hi> 
+               <seg rend="decorInit">W</seg>Hether those Clergy, and others do not fall into the ſame Error which <hi>Bellarmin</hi> did, (in his 5. book, and 7.Chapter,) who hold that becauſe the Eccleſiaſticall, and Civill power make but one body in a Common-wealth, therefore as the ſoule is not governed by the body, ſo are not matters of Church diſcipline to be ordered by the Par1iament, or by any lay Commiſſioners by them Authorized, but that reſteth in the Clergy. Seeing that unto Princes, and Majeſtrates, is com<g ref="char:EOLhyphen"/>mitted the Chieſe care of Religion, and Gods worſhip, and to watch over Eecleſiaſtica1l Miniſters, <hi>that they may lead a quiet, and a peaceable life.</hi> 1 Tim.2.3.</p>
+            <p>2. <hi>Quere</hi>] Whether, becauſe <hi>Azariah</hi> the High Prieſt drove <hi>Vzziah</hi> the King out of the Temple, and cauſed him to, dwell a part. 1 Chron, 26. therefore is there now any Divine Right in the Clergy to aſſirme to themſelves the ſole power of ſuſpention from the Lords Supper, ſeeing that Chriſt our high prieſt is come himſelfe, now did they compell the King to go forth, till
+<pb n="4" facs="tcp:159672:3"/>
+by the leoproſie that riſe up in his face, they ſaw it plainly ap<g ref="char:EOLhyphen"/>peare to them that the Lord had ſmitten him. I Cor.26.20. and for this, they had their particular Inſtructions. <hi>Leviticus</hi> 13.46</p>
+            <p>3.<hi>Quere</hi>] Whether; they do well Alledge with <hi>Betlermin,</hi> what the erroniouſly teacheth, Capt.8. That becauſe <hi>Jehoida</hi> de<g ref="char:EOLhyphen"/>poſe <hi>Athallia</hi> 2. Kings II. Therefore they of the eccleſiaſticall fun<g ref="char:EOLhyphen"/>ction have the ſolepower of Eccleſiaſtical diſciplin given to them by God, when as though <hi>Johoida</hi> knew that <hi>Athalia</hi> was a wick<g ref="char:EOLhyphen"/>ed Tyrant yet of himſefe he would preſume no hing (but decla<g ref="char:EOLhyphen"/>ratively by his owne power, and referred all to the Parliament,) <hi>viz. the Fathers and Princes of the Land,</hi> 2 Chron.23. verſe 1.2 though the action was in it ſelfe, commanded by the word of God yet not for the Prieſts to act by their owne authority: now then to reach what was the minde of God therein.</p>
+            <p>4.<hi>Quere</hi>] Whether the Office of the Paſtors be not to feed the Flocke of Chriſt, I <hi>Peter</hi> 5.2, who ſo are overſeers to them for ſpirituall diverſion, and the Civill Magiſtrates chiefe for ad<g ref="char:EOLhyphen"/>miniſtration of Juſtice; norwithſranding all that <hi>Boniface</hi> 8. alledgeth againſt it, in his decretall, <hi>extra commun. lib. 1.tit.</hi> 8.</p>
+            <p>5. <hi>Quere</hi>] whether there be a ſword of power belonging to the Eccieſiaſticall function, as to the Civill Majeſtrates, as <hi>Bone<g ref="char:EOLhyphen"/>face</hi> would have it in the foreſaid place, (agreeing with-the arro<g ref="char:EOLhyphen"/>gancy of many now; becauſe the Apoſtles ſaid to Chriſt, <hi>Lord behold here are two ſwords, and Christ anſwered them it is enough, Luke</hi> 22.38. when as thoſe were materiall ſwords, and <hi>Peter</hi> him<g ref="char:EOLhyphen"/>ſelfe <hi>was reproved for handling one of them,</hi> ver, 20.</p>
+            <p>6. <hi>Quere</hi>] Whether, thoſe who are not ſubject to the power of Parliament (though of the Eccleſiaſticall function and in Church diſcipline for matter of ſorme only) <hi>in reſiſting that power do not reſiſt the Ordinance of God, Rom.</hi> 13.8.</p>
+            <p>7. <hi>Quere</hi>] Whether <hi>Pauls</hi> ſaying, <hi>That the ſpiritual man judg<g ref="char:EOLhyphen"/>eth all things,</hi> I <hi>Cor.</hi> 2.15. gives power to the Clergie to bee Judges, ſeeing that the Apoſtle ſpeakes of ſpirituall minds, and not of ſpirituall Miniſters.</p>
+            <p>8. <hi>Quere</hi>] Whether thoſe Eccleſiaſticall men that aſſume to themſelves a divine right of temporall juriſdiction to belong to them do not ſet up themſelves above Chriſt; and aſſume a power
+<pb n="5" facs="tcp:159672:3"/>
+not of right (ſeeing Chriſt himſelfe tooke upon him no ſuch thing, neither directly, nor indirectly, <hi>bee refuſed to bee a King, Iohn 6, Neither would be execute the office of a Judge Luk.</hi> 12:13. <hi>He payed Pole money, March</hi> 17. Hee ſubmit to the judgment of <hi>Pilate and the Diſciple is not above his Maſter.</hi>
+            </p>
+            <p>9. <hi>Quere</hi>] Whether the Miniſters of the Word; and by divine right to be Lords of the Church, and Judges of their Brethren, and may ingroſſe all power of Church diſcipline into their hands without being called to accompt by the Parliament, when at the Apoſtle bids them, <hi>feed the flocke of Chriſt,</hi> not by conſtreint <hi>but willingly, not as Lords over the Lords inheritance,</hi> I <hi>pet.</hi> 5. 3. Con<g ref="char:EOLhyphen"/>trary to the minds of thoſe who would have power put into their hands to uſe all forſing, conſtraining; and Tyrannicall meanes; impriſoning, murdring, and devouring all thoſe that ſhall not obey them. And whether thoſe who ſeeke thus to ty<g ref="char:EOLhyphen"/>ranize over the Saints, are not lims of Antichriſt.</p>
+            <p>10. <hi>Quere</hi>] Wnether it bee not a Vaſſadre to the Gentry of <hi>England</hi> to enſlave themſelves under thoſe who (if advanced) would trample upon Emperors, Kings and Princes, Pope <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> cauſed <hi>King Henry</hi> the ſecond to doe penance for <hi>Beckets</hi> death. <hi>Innocent</hi> the third cauſed <hi>King Iohn</hi> to kiſſe the feet of the Biſhop of <hi>Canterbury; Alexander</hi> the third did tread upon the Emperor <hi>Fredericks</hi> necke. Pope <hi>Innocens</hi> cauſed the Emperor <hi>Frederick</hi> the ſecond to bee poyſoned, and his ſonne <hi>Convedus</hi> to bee beheaded, and in <hi>England,</hi> before the fitting of this Parlia<g ref="char:EOLhyphen"/>ment, many Nobles and Worthy Gentlemen were curbed, and tyrannized ever by ſome baſe Clergiemen of meane parantage, not to be endured, who can but thinke of ſerious ambition, that rebuked <hi>Fredericke</hi> the firſt for holding his ſtirrop on the wrong ſide.</p>
+            <p>11. <hi>Quere</hi>] Whether the Clergy are not (without complaining) to obſerve that Church diſcipline which the Parliament doth pre<g ref="char:EOLhyphen"/>ſcribe, ſo long as it is conſiſtant to the preaching of the Word of God, and diſpenſsion of the Sacrament according to the rule of <hi>Jeſus Chriſt</hi> where as it was the cuſtome of the Primitive Chur<g ref="char:EOLhyphen"/>ches to ſubmit to the ſeculer powers. <hi>August Expoſit. Quer and Propoſ ex Epiſt ad Roman, Epist Leodienſ contra Paſchal Aga<g ref="char:EOLhyphen"/>thon;
+<pb n="6" facs="tcp:159672:4"/>
+Eqiſt Synod.</hi>6. generall action, 4. <hi>Diſt.</hi> 8. <hi>cap. 1. Diſt. 10. cap.9. Diſtinct. 97. Clement. 5. exirav. Commun. lib. 5. tit. 7. cap,</hi> 2. <hi>Hierom, cenſur orient, eccleſ cap. 16. Agapetns to Juſti<g ref="char:EOLhyphen"/>nian,</hi> num. 63 <hi>Agapitos,</hi> num. 68. <hi>Franciſc. Titelman, deſide</hi> and Religion. <hi>Aetheop. Harm.</hi> ſect. II. pag. 374. <hi>Canſanns con, cord</hi> lib, 2, cap-7. <hi>Eſponſaus, digreſ.</hi> 10. in <hi>tit.</hi> pag. 1567.</p>
+            <div type="part">
+               <head>A three ſould diſtinction of power, unto which all men are bound to ſubmit.</head>
+               <p>Man is <hi>ſubject</hi> to three powers, the firſt <hi>Humaine,</hi> the ſecond <hi>Rationall</hi> and the third <hi>Divine.</hi> The <hi>firſt</hi> is the <hi>Lawes</hi> of <hi>Nations,</hi> the <hi>ſecond</hi> is the <hi>dictates</hi> of <hi>Reaſon,</hi> the third the <hi>word</hi> of <hi>God.</hi> In <hi>England</hi> the <hi>King</hi> and <hi>Parliament</hi> is the fountaine, of the <hi>humains Conſcience,</hi> the fountaine of the Rationall, and <hi>goes on ſpirit</hi> the fountaine of <hi>the Divine.</hi>
+               </p>
+               <p>1. The <hi>Parliament</hi> makes humaine Lawes, But they have their riſe from a Divine power, and <hi>wbeſoever reſiſteth the power, re<g ref="char:EOLhyphen"/>ſiſteth the Ordinance of God,</hi> Rom. 13.2</p>
+               <p>2. <hi>Conſcience</hi> is the minde of God brought to mans Reaſon, teaching him how to put forth himſelfe in acts of piety to God and love to man, and according to his owne actions to paſſe ſen<g ref="char:EOLhyphen"/>tence on himſelfe. This power is more <hi>ſpirituall</hi> then <hi>bumaine,</hi> but acts in both, <hi>in ſimplicity, and Godly ſincerity, not with ſleſisly wiſdome, but by the grace of God, having its converſation in the world, but more abundantly towards the Saints.</hi> 2 Corinth. 1. 12.</p>
+               <p>3. <hi>Gods holy ſpirit,</hi> makes <hi>divine Liwes,</hi> none elſe are jure di<g ref="char:EOLhyphen"/>vino, and the power there of tends all to <hi>love joy,</hi> peace, <hi>long-ſuſſi<g ref="char:EOLhyphen"/>ring gentleneſſe goodneſſe, faith, msekneſſe, Temperance, againſt ſuch there is no law.</hi> Gallath. 5.22.23. And all ſtatutes, and Acts of Parliament, all diſcipline and worſhip ought to ſubmit to this Rule. All power which doth ſo or beyond the Law of God is a uſurpation.</p>
+               <p>The Parliament have declared every Law, Ordinance, Privi<g ref="char:EOLhyphen"/>ledge. Cuſtome or Prerogative which doth exalt it ſelfe above the Lawes of God reaſons or peace, to be void, and what men for
+<pb n="7" facs="tcp:159672:4"/>
+ever they be that will dare to preſume a higher prerogative of power to themſelves, are led by the ſpirit of pride, and Ante<g ref="char:EOLhyphen"/>chriſt, and againſt all ſuch the Parliament may exerciſe their power, becauſe they will not ſubmit to the powers that be ordai<g ref="char:EOLhyphen"/>ned of God. <hi>Rom.</hi> 13.1.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
